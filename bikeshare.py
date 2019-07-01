@@ -1,3 +1,8 @@
+"""
+this code is to get some stat about bike sharing data acres three cities
+"""
+
+
 import time
 import pandas as pd
 import numpy as np
