@@ -3,7 +3,8 @@
 ### Project Title
 Bike Share Project
 ### Description
-it helps give insights about the usage of the bike share stations in New York, Boston and Chicago.
+It helps give insights about the usage of the bike share stations in New York, Boston and Chicago.
+using some pre downloaded data
 ### Files used
 Bikeshare.py
 chicago.csv
